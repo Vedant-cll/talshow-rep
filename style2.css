@@ -1,0 +1,100 @@
+body{
+ text-align: center; 
+background-color:lightskyblue;
+}
+.parallax-inner{
+    display: table-cell;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;}
+h1{
+font-size:40px;
+  color:#673AB7;
+  font-family:Roboto;
+}
+div{
+margin-top: 15px;
+}
+p{
+font-size:22px;
+  color:#7E57C2;
+  font-family:Roboto;
+     margin: 25px auto;
+    font-size: 20px;
+    line-height: 1.3;
+}
+img{
+  width:444px;
+    height: 444px;
+  border:3px solid #9C27B0;
+}
+.parallax-inner{
+    display: table-cell;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+}
+h1{
+    font-size:40px;
+    line-height: 1.2;
+    font-family: cursive;
+    font-weight: 300;
+}
+#Herbavores{
+    font-size:23px;
+line-height: 1.2;
+    font-family:fantasy;
+    font-weight: 200;
+}
+.image-section{
+    display: flex;
+    justify-content: center;
+      margin-top: 25px;
+}
+.section-style {
+    margin-right: 25px;
+    margin-left: 25;
+  
+}
+h2{
+     font-size:20px;
+    line-height: 1.2;
+    font-family: 'Odibee Sans', cursive;
+    font-weight: 200;
+}
+.Carnivores{
+    height:6px;
+    width: 70px;
+background-color: cyan;
+    margin:9px auto;
+}
+.menu{
+    list-style: none;
+    font-family: fantasy;
+    position:fixed;
+    top: 10px;
+    right:30px;
+    z-index: 10;
+    cursor: pointer;
+}
+.links{
+    float: left;
+    color: aliceblue;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: inherit;
+    font-size: 25px;
+}
+.links:hover{
+    background-color: lightblue;
+    font-family: 'Odibee Sans', cursive;
+}
+a{
+    text-decoration:underline;
+}
+html{
+scroll-behavior: smooth;
+}
+

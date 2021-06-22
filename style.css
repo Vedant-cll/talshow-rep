@@ -1,0 +1,121 @@
+body{
+ text-align: center;
+    
+background-color:lightskyblue;
+}
+.parallax-inner{
+    display: table-cell;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;}
+h1{
+font-size:50px;
+  color:darkorchid;
+     line-height: 1.2;
+    font-family: cursive;
+    font-weight: 500;
+  font-family:Roboto;
+}
+div{
+margin-top: 15px;
+}
+p{
+font-size:22px;
+  color:#7E57C2;
+  font-family:Roboto;
+     margin: 25px auto;
+    font-size: 20px;
+    line-height: 1.3;
+}
+img{
+  width:444px;
+    height: 444px;
+  border:8px solid ;
+    border-color: darkgray;
+}
+.parallax-inner{
+    display: table-cell;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#Herbavores{
+    font-size:23px;
+line-height: 1.2;
+    font-family:fantasy;
+    font-weight: 200;
+}
+.image-section{
+    display: flex;
+    justify-content: center;
+    background-color: dodgerblue;
+      margin-top: 25px;
+}
+.section-style {
+    margin-right: 25px;
+    margin-left: 25;
+  
+}
+h2{
+     font-size:30px;
+    line-height: 1.2;
+    font-family: 'Odibee Sans', cursive;
+    font-weight: 500;
+    color: black;
+}
+.Carnivores{
+    height:6px;
+    width: 70px;
+background-color: cyan;
+    margin:9px auto;
+}
+.menu{
+    list-style: none;
+    font-family: fantasy;
+    position:fixed;
+    top: 10px;
+    right:30px;
+    z-index: 10;
+    cursor: pointer;
+}
+.links{
+    float: left;
+    color:aliceblue;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: inherit;
+    font-size: 25px;
+    background-color:cornflowerblue;
+}
+.links:hover{
+    background-color: lightblue;
+    font-family: 'Odibee Sans', cursive;
+}
+a{
+    text-decoration:none;
+}
+html{
+scroll-behavior: smooth;
+}
+
+#mycarousel{
+    background-color: lightblue;
+    
+}
+#mycarousel img{
+    height: 300px;
+    margin-top: 40px;
+}
+.carousel-inner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: lightgreen;
+    font-size: 20px;    
+    
+}
+h3{
+    color:darkblue;
+}
